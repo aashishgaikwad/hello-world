@@ -1,0 +1,7 @@
+*.jar
+!xyz.jar
+/TODO
+build/
+doc/*.txt
+!doc/server/*.txt
+doc/**/*.pdf
